@@ -1,5 +1,69 @@
+
 body{
-    margin:0;
-    font-family:Roboto;
-    background-color: grey;
+	margin: 0;
+	padding: 16px;
+	flex: 1;
+	background: #fffff;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Lexend Deca', sans-serif;
+	overflow-Y: none !important;
 }
+/* 
+button {
+	& img {
+		transition: transform .25s;
+	}
+	&:hover{
+		& > img {
+			  transform:scale(1.2);
+		}
+	}
+	&:focus {
+		outline: none;
+	}
+} */
+
+input {
+	font-family: 'Lexend Deca', sans-serif;;
+	&::placeholder{
+		font-family: 'Lexend Deca', sans-serif;
+	}
+	&:focus{
+		outline: none;
+	}
+}
+
+.searchbox{
+		height: 60px;
+		width: 600px;
+    max-width: 100%;
+    background: white;
+    border-radius: 10px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 50px;
+		display: flex;
+	
+	/* & > .btn-menu {
+		padding: 16px;
+		background: transparent;
+		border: none;
+		cursor: pointer;
+	} */
+	
+	/* & > .search{
+		border: none;
+		width: 100%;
+	}
+	 */
+	& > .btn-search {
+		padding: 50px;
+		background: transparent;
+		border: none;
+		cursor: pointer;
+	}
+}
+

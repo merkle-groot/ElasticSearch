@@ -1,9 +1,18 @@
 {% extends 'base.html' %}
 
 {% block head %}
-    <h1>Search page</h1>
+    <centre><h1>Search page</h1></centre>
 {% endblock %}
 
 {% block body %}
+<div class="searchbox">
+    <form action="/api" method="POST">
+        <input id="search" type="text" placeholder="Search..." name="text" class="search">
+        <button  class="btn-search">
+            <img src="https://img.icons8.com/cotton/24/000000/search--v2.png">
+        </button>
+</form>
+</div>
+
 {% endblock %}
 
