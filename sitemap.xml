@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+      <!-- xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"> -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/bat-fleck</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/join?source=header</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/code-review/</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/project-management/</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/integrations</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/actions</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/package-registry</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/features/security</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/security</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/explore</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/topics</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/collections</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/trending</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/events</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/pricing</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/nonprofit</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/join?source=prompt-users-profile</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ccfcet</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/contact/report-abuse?report=bat-fleck+%28user%29</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=repositories</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=projects</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=stars</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=followers</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=following</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/bat-fleck.github.io</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PeARSearch/PeARS-orchard</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/pyOrganize</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/Food-Donation-App</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/Medical-App</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/PomoDoro-Timer</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=overview&amp;org=ieeecscet</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=overview&amp;org=PeARSearch</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/Keras_Library_practice</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/Food-Donation-App/commits?author=bat-fleck&amp;since=2019-10-01&amp;until=2019-10-26</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/Code-Buckets</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/Code-Buckets/commits?author=bat-fleck&amp;since=2019-10-01&amp;until=2019-10-26</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck/Food-Donation-App/pull/2</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/bat-fleck?tab=overview&amp;from=2019-10-01&amp;to=2019-10-25</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/about</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/join?source=header-home</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/open-source</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join?plan=business_plus&amp;setup_organization=true&amp;source=home-enterprise-prompt</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join?plan=business&amp;setup_organization=true&amp;source=home</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/features/code-review</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/features/project-management</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mgm-resorts</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/nationwide</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/sap</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/spotify</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/freakboy3742</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/kris-nova</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/yyx990803</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/jessfraz</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/personal</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/about/careers</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/about/press</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/github</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/features/integrations/</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/atom/atom</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron/electron</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/hubotio/hubot</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/git-lfs/git-lfs</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join?plan=business_plus&amp;setup_organization=true&amp;source=pricing-card-enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/enterprise?source=pricing-card-enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/codecov</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/codacy</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/coveralls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join?plan=free&amp;source=pricing-card-free</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join?plan=pro&amp;source=pricing-card-pro</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join?plan=business&amp;setup_organization=true&amp;source=pricing-card-team</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/codetree</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/stale</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/zube</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/zenhub</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmarketplace%2Fnew</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Factions%2Fsignup%3Faccount%3D</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/launchdarkly/find-code-references</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Azure/appservice-actions</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/aws</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Azure/k8s-actions</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/codeclimate/velocity-deploy-action</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/coverallsapp/github-action</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Axosoft/glo-actions</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mablhq/github-run-tests-action</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/stale</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/labeler</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/gcloud</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/codecov/codecov-action</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/actions/starter-workflows</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ffeatures%2Fpackage-registry%2Fsignup</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/enterprise?source=customer-stories-nav</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/stripe</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/pinterest</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/qualcomm</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=all&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=americas&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=apac&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;region=emea&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=all&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=software-technology&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=retail-ecommerce&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=travel-hospitality&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=media-entertainment&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=manufacturing&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=operations-logistics&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=automotive&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=financial-services&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=healthcare&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=marketing-communications&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=communications&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=energy-utilities&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=government&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;industry=education&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;type=all</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;type=enterprise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories?anchor=results&amp;type=developers</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/adeo</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/american-airlines</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/anaplan</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/bcg-gamma</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/braintree</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/brother-industries</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/ch-robinson</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/coinbase</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/continental</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/covermymeds</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/cruise-automation</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/cyberagent</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dazn</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/decathlon</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/delivery-hero</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/deutsche-boerse-group</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dlr</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/dominion</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/engie</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/enova</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/globant</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/groupon</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/hootsuite</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/hubspot</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/jibo</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/jpl</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/kakao</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/leapmotion</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mailchimp</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/mapbox</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/media-assembly</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/nubank</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/omise</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/peak-money</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/rea-group</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/skyscanner</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/societe-generale</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/trainline</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/uminn</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/white-label-international-retailer</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/xing</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/zendesk</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/security/trust</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/security/team</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/security/incident-response</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join?plan=business_plus&amp;setup_organization=true&amp;source=enterprise-hero</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/customer-stories/ariya</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sponsors</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Faccount%2Forganizations%2Fnew%3Fplan%3Dbusiness_plus%26source%3Denterprise-footer</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/explore/email</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/join</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect/streisand</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect/streisand/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect/streisand/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect/streisand/issues/1632</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect/streisand/issues/1432</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect/streisand/issues/1418</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/StreisandEffect/streisand/contribute</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Naotonosato/Blawn</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Naotonosato</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Naotonosato/Blawn/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Naotonosato/Blawn/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/gchq/CyberChef</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/mongoose</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vulhub/vulhub</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vulhub</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vulhub/vulhub/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vulhub/vulhub/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topic.docker</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topic.docker-compose</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian/zipline</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian/zipline/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian/zipline/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian/zipline/issues/2127</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian/zipline/issues/2297</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian/zipline/issues/2221</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/quantopian/zipline/contribute</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron/electron/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron/electron/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron/electron/issues/20688</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electro</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron/electron/issues/20269</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron/electron/issues/20330</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/electron/electron/contribute</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento/magento2</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento/magento2/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento/magento2/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento/magento2/issues/24352</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento/magento2/issues/23515</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento/magento2/issues/23172</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/magento/magento2/contribute</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/text-editors</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/review-notebook-app</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/HongqingCao/GitDataV</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/HongqingCao</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/HongqingCao/GitDataV/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/HongqingCao/GitDataV/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/neex/phuip-fpizdam</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/neex</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/neex/phuip-fpizdam/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/neex/phuip-fpizdam/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chineseGLUE/chineseGLUE</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chineseGLUE</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chineseGLUE/chineseGLUE/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chineseGLUE/chineseGLUE/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chiphuyen/python-is-cool</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chiphuyen</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chiphuyen/python-is-cool/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/chiphuyen/python-is-cool/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/youfou/wxpy</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/youfou</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/youfou/wxpy/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/youfou/wxpy/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jguer/yay</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jguer</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jguer/yay/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jguer/yay/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits/algo</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits/algo/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits/algo/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits/algo/issues/1545</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits/algo/issues/1597</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits/algo/issues/1538</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trailofbits/algo/contribute</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ageron/handson-ml2</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ageron</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ageron/handson-ml2/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ageron/handson-ml2/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/florinpop17/app-ideas</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/florinpop17</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/florinpop17/app-ideas/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/florinpop17/app-ideas/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/barry-ran/QtScrcpy</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/barry-ran</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/barry-ran/QtScrcpy/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/barry-ran/QtScrcpy/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jacobeisenstein/gt-nlp-class</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jacobeisenstein</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jacobeisenstein/gt-nlp-class/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jacobeisenstein/gt-nlp-class/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/apachecn/AiLearning</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/apachecn</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/apachecn/AiLearning/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/apachecn/AiLearning/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trimstray/nginx-admins-handbook</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trimstray</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trimstray/nginx-admins-handbook/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trimstray/nginx-admins-handbook/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LisaDziuba/Awesome-Design-Tools</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LisaDziuba</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LisaDziuba/Awesome-Design-Tools/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LisaDziuba/Awesome-Design-Tools/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw/tablesaw</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw/tablesaw/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw/tablesaw/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw/tablesaw/issues/652</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw/tablesaw/issues/567</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw/tablesaw/issues/457</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jtablesaw/tablesaw/contribute</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/google-research/google-research</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/google-research</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/google-research/google-research/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/google-research/google-research/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/2227324689/gpmall</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/2227324689</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/2227324689/gpmall/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/2227324689/gpmall/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jet-admin/jet-bridge</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jet-admin</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jet-admin/jet-bridge/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jet-admin/jet-bridge/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/cookieY/Yearning</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/cookieY</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/cookieY/Yearning/issues</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/cookieY/Yearning/pulls</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marketplace/leanboard</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/developers</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mre</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mre/hyperjson</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/natario1</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/natario1/BottomSheetCoordinatorLayout</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/stefanprodan</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/stefanprodan/hrval-action</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mrdoob</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/material-design</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/arduino</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/monero</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/3d</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ajax</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/algorithm</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/amphp</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/android</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/angular</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ansible</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/api</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/aspnet</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/atom</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/awesome</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/aws</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/azure</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/babel</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/bash</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/bitcoin</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/bootstrap</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/bot</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/c</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/chrome</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/chrome-extension</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/cli</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/clojure</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/code-quality</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/code-review</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/compiler</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/continuous-integration</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/cpp</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/cryptocurrency</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/crystal</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/csharp</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/css</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/data-structures</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/data-visualization</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/database</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/deep-learning</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/dependency-management</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/deployment</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/django</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/docker</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/documentation</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/dotnet</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/electron</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/elixir</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/emacs</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ember</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/emoji</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/emulator</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/es6</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/eslint</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ethereum</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/express</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/firebase</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/firefox</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/flask</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/font</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/framework</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/frontend</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/game-engine</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/git</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/github-api</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/go</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/google</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/gradle</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/graphql</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/gulp</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/haskell</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/homebrew</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/homebridge</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/html</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/http</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/icon-font</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ios</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/ipfs</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/java</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/javascript</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/jekyll</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/jquery</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/json</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/julia</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/jupyter-notebook</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/koa</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/kotlin</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/kubernetes</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/laravel</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/latex</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/library</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/linux</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/localization</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/lua</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/machine-learning</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/macos</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/markdown</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/mastodon</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/matlab</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/maven</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/minecraft</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/mobile</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/react</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/python</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/topics/python3</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/pixel-art-tools</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/learn-to-code</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/choosing-projects</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/clean-code-linters</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/open-journalism</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/design-essentials</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/music</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/government</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/devops-tools</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/front-end-javascript-frameworks</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/game-engines</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/github-browser-extensions</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/github-pages-examples</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/hacking-minecraft</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/javascript-game-engines</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/machine-learning</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/made-in-africa</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/net-neutrality</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/open-data</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/open-source-organizations</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/collections/policies</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/c++?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/html?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/java?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/javascript?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/php?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/python?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ruby?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/unknown?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/1c-enterprise?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/abap?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/abnf?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/actionscript?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ada?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/adobe-font-metrics?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/agda?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ags-script?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/alloy?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/alpine-abuild?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/altium-designer?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ampl?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/angelscript?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ant-build-system?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/antlr?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/apacheconf?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/apex?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/api-blueprint?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/apl?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/apollo-guidance-computer?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/applescript?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/arc?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/asciidoc?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/asn.1?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/asp?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/aspectj?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/assembly?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/asymptote?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ats?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/augeas?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/autohotkey?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/autoit?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/awk?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ballerina?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/batchfile?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/befunge?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/bison?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/bitbake?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/blade?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/blitzbasic?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/blitzmax?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/bluespec?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/boo?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/brainfuck?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/brightscript?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/zeek?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/c?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/c%23?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/c-objdump?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/c2hs-haskell?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/cabal-config?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/cap&#39;n-proto?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/cartocss?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/ceylon?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/trending/chapel?since=daily</loc>
+  <lastmod>2019-10-25T17:17:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
