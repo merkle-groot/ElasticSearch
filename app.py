@@ -2,7 +2,7 @@ from datetime import datetime
 import xml.etree.ElementTree as ET 
 from flask import Flask,request,jsonify,render_template,redirect,url_for
 from elasticsearch import Elasticsearch
-from elasticsearch_dsl import Search
+# from elasticsearch_dsl import Search
 
 app=Flask(__name__)
 es = Elasticsearch()
@@ -17,11 +17,17 @@ def init():
 
     for url in root.findall('url'):
         link = url.find('loc').text
+        linkTemp= link.split('/')
+        text=""
+        for i in linkTemp:
+            text+= i+" "
+        print(text)
         body={
             "url":link,
+            "text": text,
         }
         
-        es.index(index="search-index",doc_type='url',id=1,body=body)  
+        es.index(index="search-index",doc_type='url',id=id,body=body)  
         id+=1
         print(link)
     return 0      
@@ -29,19 +35,27 @@ def init():
 
     
 
-
-#Inserting new items
+# Search Items
 @app.route('/api',methods=['GET','POST'])
 def search():
     if request.method=='POST':
         text=request.form['text']
-        s = Search().using(es).query("match", title="react")
+        body ={
+            "query": {
+                "multi_match":{
+                    "query": "https:",
+                }
+            }
+        }
+
+        res = es.search(index="search-index", body=body)
+        print(res)
+        # print(response)
         #print(s.to_dict())
-        response = s.execute()
-        #print(s.to_dict())
-        for hit in s:
-            print(hit.title)
-            return redirect(url_for('search_result',text=hit.title))
+
+        print(".................STONKS ............")
+        for hits in res['hits']['hits']:
+            print(hits['_source']['url'])
 
         #author=request.form['author']
         # text=request.form['text']
