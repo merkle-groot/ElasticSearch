@@ -2,6 +2,8 @@ from datetime import datetime
 import xml.etree.ElementTree as ET 
 from flask import Flask,request,jsonify,render_template,redirect,url_for
 from elasticsearch import Elasticsearch
+import requests
+from bs4 import BeautifulSoup
 # from elasticsearch_dsl import Search
 
 app=Flask(__name__)
@@ -17,14 +19,19 @@ def init():
 
     for url in root.findall('url'):
         link = url.find('loc').text
-        linkTemp= link.split('/')
+        # linkTemp= link.split('/')
         text=""
-        for i in linkTemp:
-            text+= i+" "
-        print(text)
+        print(link)
+        r = requests.get(link)
+        soup = BeautifulSoup(r.content, 'html5lib')
+        # print(soup.find('a'))
+
+        # for i in linkTemp:
+        #     text+= i+" "
+        # print(text)
         body={
             "url":link,
-            "text": text,
+            "text": str(soup),
         }
         
         es.index(index="search-index",doc_type='url',id=id,body=body)  
@@ -43,7 +50,7 @@ def search():
         body ={
             "query": {
                 "multi_match":{
-                    "query": "https:",
+                    "query": text,
                 }
             }
         }
@@ -51,9 +58,13 @@ def search():
         res = es.search(index="search-index", body=body)
         print(res)
 
+        result = []
         print(".................STONKS ............")
         for hits in res['hits']['hits']:
             print(hits['_source']['url'])
+            result.append(hits['_source']['url'])
+
+        return redirect(url_for('search_result', text=result))
 
     return render_template('index.html')
 
@@ -70,10 +81,11 @@ def index():
 @app.route('/result')
 def search_result():
     text = request.args.get('text', None)
+    print(text)
     return text
     
 
 
 if __name__ == "__main__":
-    init()
+    # init()
     app.run(debug=True)
