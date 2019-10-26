@@ -50,24 +50,11 @@ def search():
 
         res = es.search(index="search-index", body=body)
         print(res)
-        # print(response)
-        #print(s.to_dict())
 
         print(".................STONKS ............")
         for hits in res['hits']['hits']:
             print(hits['_source']['url'])
 
-        #author=request.form['author']
-        # text=request.form['text']
-
-        # body={
-        #     'text':text,
-        #     'author':"ninja",
-        #     'timestamp':datetime.now()
-        # }
-        # result=es.index(index="search-index",doc_type='url',id=1,body=body)
-        #return redirect(url_for('search_result'))
-    #es.indices.refresh(index="search-index")
     return render_template('index.html')
 
 #showing the content
